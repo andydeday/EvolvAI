@@ -120,3 +120,14 @@ git push origin feature/your-feature-name
 
 License
 This project is licensed under the MIT License.
+
+🛡️ License
+This project is licensed under the MIT License.
+
+
+### **How to Customize This README**
+- Replace placeholders like `[Project Name]`, `your-username`, and links with your project-specific details.
+- Add logos, screenshots, or videos in relevant sections for better visual appeal.
+- Adjust technical details based on your specific implementation.
+
+Let me know if you need further refinements!
