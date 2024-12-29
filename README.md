@@ -87,17 +87,21 @@ npm start
 
 🚧 Roadmap
 Phase 1: MVP
+
 Launch autonomous AI agent on Twitter.
 Integrate blockchain for basic asset management.
 Introduce initial content generation capabilities.
+
 Phase 2: Community Engagement
 Set up a Discord community.
 Enable DAO governance via native tokens.
 Host community-driven events.
+
 Phase 3: Advanced Features
 Deploy NFT marketplace integration.
 Expand AI capabilities (e.g., video generation).
 Launch staking and rewards mechanisms.
+
 Phase 4: Ecosystem Expansion
 Partner with other Web3 projects.
 Enhance scalability and security.
