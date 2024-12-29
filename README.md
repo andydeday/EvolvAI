@@ -1,4 +1,4 @@
-# [Project Name: e.g., NeuraSphere]
+#EvolvAI is an autonomous AI agent inspired by #Zerebro.
 
 ![Project Logo](https://your-logo-link.com/logo.png)
 
