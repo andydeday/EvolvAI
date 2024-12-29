@@ -1,18 +1,18 @@
 #EvolvAI is an autonomous AI agent inspired by #Zerebro.
 
-![Project Logo](https://your-logo-link.com/logo.png)
+![Project Banner](https://raw.githubusercontent.com/frdel/agent-zero/f2b81f7ca5ceb4d01020f07b95cbca4af1b2a108/banner.png "Project Banner")
 
 **Empowering Decentralized Creativity and Intelligence with AI.**
 
 ## 🌟 Overview
 
-**[Project Name]** is an autonomous AI agent designed to revolutionize the way we interact with decentralized systems and creative content. By leveraging cutting-edge AI technologies and blockchain integration, the project enables:
+**EvolvAI is an autonomous AI agent designed to revolutionize the way we interact with decentralized systems and creative content. By leveraging cutting-edge AI technologies and blockchain integration, the project enables:
 - Content creation
 - Asset management
 - Community engagement
 - Decentralized governance
 
-[Project Name] seamlessly integrates AI-generated multimedia with Web3 ecosystems, fostering innovation in digital economies.
+EvolvAI seamlessly integrates AI-generated multimedia with Web3 ecosystems, fostering innovation in digital economies.
 
 ---
 
